@@ -1,0 +1,97 @@
+  Answer of Assignment 1 (29th Jan Python)
+
+1.Python programming language was developed by Guido van Rossum.
+
+
+2.Python supports multiple programming paradigms including:
+
+Object-Oriented Programming (OOP)
+Imperative Programming
+Functional Programming
+Procedural Programming
+It also provides constructs for writing clear and reusable code, making it a popular choice for a wide range of applications, from web development to scientific computing and data analysis.
+
+3. Yes, Python is case-sensitive when dealing with identifiers, such as variables, functions, and class names. For example, the names "var", "Var", and VAR are considered to be three different identifiers in Python.
+
+4. The correct extension of the file is .py.
+
+5.Python code is interpreted, not compiled. The code is executed line by line by an interpreter, rather than being transformed into machine code by a compiler, which makes the development and debugging process easier and faster. 
+
+6.In Python, there are several blocks of code used to define different structures:
+
+Function definition: A block of code that performs a specific task, defined using the 'def' keyword, followed by the function name and its parameters.
+
+Class definition: A blueprint for creating objects, defined using the class keyword, followed by the class name.
+If-else statement: A conditional block of code, executed only if a specified condition is true.
+
+
+7. "#" is used for single line comment.
+
+8. The 'sys' module in Python provides the sys.version attribute, which returns a string containing the version number of the Python interpreter in use.
+
+9. Python supports the creation of anonymous functions at runtime using the "lambda" keyword.
+
+10. pip stand for Pip Installs Packages.
+
+11. Few built-in function in python: -
+
+print(): used to display the output of a program.
+len(): used to find the length of a string, list, tuple, or dictionary.
+range(): used to generate a sequence of numbers.
+int(): used to convert a number or a string to an integer.
+float(): used to convert a number or a string to a floating-point number.
+str(): used to convert any data type to a string.
+sum(): used to add elements of a sequence.
+min(): used to find the minimum value of a sequence.
+max(): used to find the maximum value of a sequence.
+sorted(): used to sort a sequence.
+
+12.In Python, there is no specific limit to the length of an identifier. However, the maximum length of an identifier is determined by the underlying system's memory constraints and the specific implementation of Python.
+
+
+
+13.There are many benefits to using Python as a programming language. Some of the most significant benefits include:
+
+Easy to learn and read: Python has a simple, straightforward syntax that is easy to read and write, making it a great choice for beginners.
+
+Versatile: Python can be used for a wide range of tasks, including web development, scientific computing, data analysis, artificial intelligence, and more.
+
+Large community and support: Python has a large and active community that provides support and resources for users, including a vast collection of libraries and tools.
+
+High-level language: Python is a high-level language, meaning that it abstracts away much of the low-level details of the computer. This allows for faster development and a focus on the problem at hand, rather than the underlying system.
+
+Cross-platform compatibility: Python code can run on any platform, including Windows, Mac, and Linux, making it a great choice for cross-platform development.
+
+Dynamic and interpreted: Python is an interpreted language, meaning that code is executed line by line, making it easier to debug and test. It also has dynamic typing, allowing for more flexibility in data types.
+
+Overall, Python is a versatile, high-level language that is easy to learn and provides many benefits for developers.
+
+
+
+14. In Python, memory management is handled automatically by the Python memory manager, which is a component of the Python interpreter. The Python memory manager manages the allocation of memory for Python objects and provides a high-level interface for the programmer to work with memory.
+
+
+
+
+15. Here's a step-by-step guide to install Python on Windows and set the PATH variable:
+
+Download the Python installer: Go to the Python official website (https://www.python.org/downloads/windows/) and download the latest version of Python for Windows.
+
+Run the installer: Double-click the downloaded Python installer and follow the instructions to install Python on your computer.
+
+Set the PATH variable:
+
+Open the Start menu and search for "Environment Variables."
+Click on "Edit the system environment variables."
+In the System Properties window, click on the "Environment Variables" button.
+In the Environment Variables window, scroll down to the "System Variables" section, and find the "Path" variable.
+Click on the "Edit" button, and then click on the "New" button.
+Enter the path to the Python installation, for example, C:\Python37\.
+Click "OK" on all open windows to save the changes.
+Test the installation: Open a Command Prompt and type python. If the installation was successful, you should see the Python REPL (Read-Eval-Print Loop), which is a prompt that allows you to interact with the Python interpreter.
+
+After following these steps, Python should be installed on your Windows computer and the PATH variable should be set correctly, allowing you to run Python from any location on your computer.
+
+
+
+16. Yes, indentation is required in Python to define code blocks. In Python, indentation is used to indicate the scope of a block of code, such as a loop or a function. Unlike other programming languages, Python does not use curly braces or other syntax elements to define code blocks. Instead, it relies on indentation to determine the structure of the code
